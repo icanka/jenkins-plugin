@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../design-library-plugin"
+		},
+		{
+			"path": "../purge-job-history-plugin"
+		},
+		{
+			"path": "../docker"
+		}
+	],
+	"settings": {
+		"java.configuration.updateBuildConfiguration": "interactive"
+	}
+}
